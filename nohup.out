@@ -1,0 +1,20 @@
+[2025-01-07 19:49:29 +0000] [5972] [INFO] Starting gunicorn 23.0.0
+[2025-01-07 19:49:29 +0000] [5972] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2025-01-07 19:49:29 +0000] [5972] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2025-01-07 19:49:30 +0000] [5972] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2025-01-07 19:49:30 +0000] [5972] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2025-01-07 19:49:31 +0000] [5972] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2025-01-07 19:49:31 +0000] [5972] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2025-01-07 19:49:32 +0000] [5972] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2025-01-07 19:49:32 +0000] [5972] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2025-01-07 19:49:33 +0000] [5972] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2025-01-07 19:49:33 +0000] [5972] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2025-01-07 19:49:34 +0000] [5972] [ERROR] Can't connect to ('0.0.0.0', 8000)
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Error: That port is already in use.
